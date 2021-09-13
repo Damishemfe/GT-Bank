@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441872768607",
+    "project_id": "gt-bank-bd5f9",
+    "storage_bucket": "gt-bank-bd5f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441872768607:android:3692f19a67899b6eea45ea",
+        "android_client_info": {
+          "package_name": "com.hitrosttech.mobilebanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441872768607-mle9phncqcba9pptaercohdape6krrdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hitrosttech.mobilebanking",
+            "certificate_hash": "9744cbe94245a52379ef3add90bb20f79873298e"
+          }
+        },
+        {
+          "client_id": "441872768607-vvgr9c9d6tcaqkmuhu5fg4enh4jqovme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6QssmYjkZietNerxRV0qw2DFPBgA2KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441872768607-vvgr9c9d6tcaqkmuhu5fg4enh4jqovme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
